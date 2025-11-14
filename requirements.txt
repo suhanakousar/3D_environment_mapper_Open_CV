@@ -1,0 +1,12 @@
+opencv-python
+numpy
+# PyTorch - install separately using: pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+# Or for CUDA: pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+# Note: For Windows, use regular PyPI: pip install torch==2.3.1 torchvision==0.18.1
+torch>=2.0.0
+torchvision>=0.15.0
+timm
+open3d
+ultralytics
+tqdm
+pyyaml

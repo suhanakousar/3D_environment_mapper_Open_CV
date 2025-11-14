@@ -44,6 +44,7 @@ wheels/
 *.pcd
 *.obj
 *.txt
+!requirements.txt
 digital_twin_*.ply
 digital_twin_*.txt
 3d_structure_*.ply
