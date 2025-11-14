@@ -23,6 +23,9 @@ wheels/
 .installed.cfg
 *.egg
 
+# But keep requirements.txt
+!requirements.txt
+
 # IDE
 .vscode/
 .idea/
