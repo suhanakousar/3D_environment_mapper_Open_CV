@@ -1,0 +1,8 @@
+# Default intrinsics for a typical 640x480 webcam. Replace with calibration results for accuracy.
+image_width: 640
+image_height: 480
+fx: 600.0
+fy: 600.0
+cx: 320.0
+cy: 240.0
+distortion: [0, 0, 0, 0, 0]
